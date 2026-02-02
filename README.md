@@ -7,6 +7,13 @@ A full-stack web application where users can sign up, view courses, and subscrib
 ![Node.js](https://img.shields.io/badge/Node.js-18.x-green?style=flat-square&logo=node.js)
 ![MongoDB](https://img.shields.io/badge/MongoDB-6.x-green?style=flat-square&logo=mongodb)
 
+## 🌐 Live Demo
+
+- **Frontend:** [https://cyberwarefare-siddartha.vercel.app](https://cyberwarefare-siddartha.vercel.app)
+- **Backend API:** [https://cyberwarefare.onrender.com](https://cyberwarefare.onrender.com)
+
+> ⚠️ **Note:** The backend is hosted on Render free tier. First request may take 30-60 seconds as the server spins up.
+
 ## 📸 Screenshots
 
 ### Login Page
