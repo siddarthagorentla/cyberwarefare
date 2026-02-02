@@ -144,6 +144,7 @@ app.use(cors({
         'http://127.0.0.1:5173',
         'https://cyberwarefare.vercel.app',
         'https://cyberwarefare-frcn.vercel.app',
+        'https://cyberwarefare-siddartha.vercel.app',
         /\.vercel\.app$/  // Allow all Vercel subdomains
     ],
     credentials: true
